@@ -69,7 +69,10 @@ Enter dice rolls (e.g., 2d20 10d6 4d4) or type 'exit': exit
 
 ## Author
 
-[Kodyzz1](github.com/Kodyzz1)
+[Kodyzz1](https://www.github.com/Kodyzz1)
+
+## Link to this project
+[Github - Dicer](https://www.github.com/Kodyzz1/Dicer)
 
 ## License
 
